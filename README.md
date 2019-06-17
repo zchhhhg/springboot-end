@@ -1,4 +1,4 @@
 # Springboot-End
-### update 2019.04.28
+### update 2019.06.08
 
-与vue-frontend项目整合，提供后端支持
+新建后台项目springboot-end，添加实体类user，course，homework
